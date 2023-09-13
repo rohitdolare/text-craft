@@ -6,3 +6,6 @@ This app is created to modify text
 according to use
 
 Also it counts words and characters in text
+
+//trying to modify
+from second-branch
