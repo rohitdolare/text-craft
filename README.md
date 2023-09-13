@@ -7,5 +7,4 @@ according to use
 
 Also it counts words and characters in text
 
-//trying to modify
-from second-branch
+
